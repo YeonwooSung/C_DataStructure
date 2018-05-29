@@ -7,3 +7,5 @@ Implemented:
     1. Stack
 
     2. Queue
+    
+    3. XOR Linked List
